@@ -76,7 +76,3 @@ make tname=general
 
 Waveforms are written to the `sim_build/` directory as `.vcd` files and can be
 opened in GTKWave.
-
-## License
-
-Add a license of your choice (e.g. MIT) if you want others to reuse the code.
